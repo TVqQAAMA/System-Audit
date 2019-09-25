@@ -1,0 +1,11 @@
+C:\Users\itaudit\Desktop\sources\Surprise\Surprise\bin\Release\Surprise.exe.config
+C:\Users\itaudit\Desktop\sources\Surprise\Surprise\bin\Release\Surprise.exe
+C:\Users\itaudit\Desktop\sources\Surprise\Surprise\bin\Release\Surprise.pdb
+C:\Users\itaudit\Desktop\sources\Surprise\Surprise\obj\Release\Interop.WUApiLib.dll
+C:\Users\itaudit\Desktop\sources\Surprise\Surprise\obj\Release\Surprise.csproj.ResolveComReference.cache
+C:\Users\itaudit\Desktop\sources\Surprise\Surprise\obj\Release\Surprise.csproj.CoreCompileInputs.cache
+C:\Users\itaudit\Desktop\sources\Surprise\Surprise\obj\Release\Surprise.exe
+C:\Users\itaudit\Desktop\sources\Surprise\Surprise\obj\Release\Surprise.pdb
+C:\Users\itaudit\Desktop\sources\Surprise\Surprise\obj\Release\Surprise.csprojResolveAssemblyReference.cache
+C:\Users\itaudit\Desktop\sources\Surprise\Surprise\bin\Release\System.Management.Automation.dll
+C:\Users\itaudit\Desktop\sources\Surprise\Surprise\obj\Release\Surprise.csproj.CopyComplete
